@@ -1,7 +1,7 @@
 ## Interface: 30400
-## Title: SkuAudioData (35)
+## Title: SkuAudioData (36)
 ## SavedVariables: 
-## Version: 35
+## Version: 36
 assets\SkuAudioFileIndex.lua
 assets\SkuAudioDataLenIndex.lua
 Core.lua
